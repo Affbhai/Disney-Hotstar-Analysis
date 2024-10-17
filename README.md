@@ -15,20 +15,33 @@ Visualization: Create interactive charts to interpret the data.
 Exploratory Analysis: Uncover patterns, trends, and relationships.
 Documentation: Present findings through a report or dashboard.
 
-📝 Tasks:
-Movies by Genre: Visualize the distribution of movies across genres.
-Average Running Time by Genre: Analyze and plot average running times per genre.
-Movies Released Each Year: Track the number of movies released annually.
-Top 10 Longest Movies: Identify and display the longest-running movies.
-Movies by Age Rating: Show the distribution of movies by age rating.
-Count by Year and Genre: Analyze the count of movies across genres over the years.
-Most Common Movie Types: Compare counts of different types (e.g., movies, documentaries).
-Running Time vs. Release Year: Explore correlations with a scatter plot.
-Genre Popularity Over Time: Chart the popularity of genres over time.
-Movies by Genre and Age Rating: Analyze combinations of genre and age rating.
-Movies with Maximum Episodes: Identify movies with the most episodes.
-Running Time Distribution: Plot the distribution of running times.
-Specific Genre Analysis: Deep-dive into selected genres (e.g., Action, Drama).
+📝 Tasks: To Find
+
+-Movies by Genre: Visualize the distribution of movies across genres.
+
+-Average Running Time by Genre: Analyze and plot average running times per genre.
+
+-Movies Released Each Year: Track the number of movies released annually.
+
+-Top 10 Longest Movies: Identify and display the longest-running movies.
+
+-Movies by Age Rating: Show the distribution of movies by age rating.
+
+-Count by Year and Genre: Analyze the count of movies across genres over the years.
+
+-Most Common Movie Types: Compare counts of different types (e.g., movies, documentaries).
+
+-Running Time vs. Release Year: Explore correlations with a scatter plot.
+
+-Genre Popularity Over Time: Chart the popularity of genres over time.
+
+-Movies by Genre and Age Rating: Analyze combinations of genre and age rating.
+
+-Movies with Maximum Episodes: Identify movies with the most episodes.
+
+-Running Time Distribution: Plot the distribution of running times.
+
+-Specific Genre Analysis: Deep-dive into selected genres (e.g., Action, Drama).
 
 📊 Results:
 Interactive visualizations showcasing insights and trends.
